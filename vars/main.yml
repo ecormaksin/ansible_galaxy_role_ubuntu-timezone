@@ -1,2 +1,5 @@
 ---
 # vars file for ansible_galaxy_role_ubuntu-timezone
+
+timezone:
+  name: Asia/Tokyo
